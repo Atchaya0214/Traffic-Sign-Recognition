@@ -1,0 +1,7 @@
+venv/
+.venv/
+dataset/
+*.zip
+__pycache__/
+*.pyc
+models/*.keras
