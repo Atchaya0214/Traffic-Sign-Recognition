@@ -1,7 +1,10 @@
 venv/
 .venv/
+
 dataset/
-*.zip
+processed_data/
+
 __pycache__/
 *.pyc
-models/*.keras
+
+models/
